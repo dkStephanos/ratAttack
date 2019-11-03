@@ -1,0 +1,11 @@
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\bin\Debug\netcoreapp2.0\RatAttack.deps.json
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\bin\Debug\netcoreapp2.0\RatAttack.runtimeconfig.json
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\bin\Debug\netcoreapp2.0\RatAttack.runtimeconfig.dev.json
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\bin\Debug\netcoreapp2.0\RatAttack.dll
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\bin\Debug\netcoreapp2.0\RatAttack.pdb
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\obj\Debug\netcoreapp2.0\RatAttack.csprojAssemblyReference.cache
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\obj\Debug\netcoreapp2.0\RatAttack.csproj.CoreCompileInputs.cache
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\obj\Debug\netcoreapp2.0\RatAttack.AssemblyInfoInputs.cache
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\obj\Debug\netcoreapp2.0\RatAttack.AssemblyInfo.cs
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\obj\Debug\netcoreapp2.0\RatAttack.dll
+C:\Users\Stephanos\Documents\Dev\Algo\RatAttack\RatAttack\obj\Debug\netcoreapp2.0\RatAttack.pdb
