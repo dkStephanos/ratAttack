@@ -6,7 +6,7 @@ namespace RatAttack
 {
     class RatPopulation
     {
-        int x,                      //X coordinate of population
+        public int x,                      //X coordinate of population
             y,                      //Y coordinate of population
             size;                   //Size of population
     }
