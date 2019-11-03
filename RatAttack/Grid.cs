@@ -6,14 +6,14 @@ namespace RatAttack
 {
     class Grid
     {
-        int numRatPopulations;                         //Total number of rat populations
-        int[,] ratPopulationData;                      //Holds data on each rat population
+        public int numRatPopulations;                         //Total number of rat populations
+        public RatPopulation[] ratPopulations;                      //Holds data on each rat population
 
         //Constructor that takes number of rat populations to set up the grid data
         public Grid(int numRatPopulations)
         {
             this.numRatPopulations = numRatPopulations;
-            ratPopulationData = new int[numRatPopulations, 3];
+            ratPopulations = new RatPopulation[numRatPopulations];
         }
     }
 }
